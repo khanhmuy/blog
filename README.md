@@ -8,4 +8,4 @@ this is where i'll put my blogs and writings, mostly for my own enjoyment (as if
 - tech
 - anime / manga
 - the media in general
-- reflections of myself
+- reflections and feelings
