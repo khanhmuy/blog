@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manga on hmuy&#39;s yapping corner</title>
-    <link>http://localhost:1313/blog/manga/</link>
-    <description>Recent content in Manga on hmuy&#39;s yapping corner</description>
+    <title>English on hmuy&#39;s yapping corner</title>
+    <link>http://localhost:1313/blog/english/</link>
+    <description>Recent content in English on hmuy&#39;s yapping corner</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>khanhmuy © 2024</copyright>
     <lastBuildDate>Mon, 01 Jul 2024 16:27:17 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/manga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>this manga broke me.</title>
       <link>http://localhost:1313/this-manga-broke-me./</link>

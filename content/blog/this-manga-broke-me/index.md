@@ -7,7 +7,7 @@ date = "2024-07-01T16:27:17+07:00"
 #
 # description = "hmuy's review of Kimi to Tsuzuru Utakata - The Summer You Were There"
 
-tags = ["review","manga",]
+tags = ["review","weebshit","english"]
 +++
 
 ![cover](images/cover.jpg)
