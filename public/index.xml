@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog home on hmuy&#39;s yapping corner</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.hmuy.tech/</link>
     <description>Recent content in blog home on hmuy&#39;s yapping corner</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>khanhmuy © 2024</copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 16:27:17 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 22:56:44 +0700</lastBuildDate>
+    <atom:link href="https://blog.hmuy.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024.</title>
+      <link>https://blog.hmuy.tech/2024./</link>
+      <pubDate>Tue, 31 Dec 2024 22:56:44 +0700</pubDate>
+      <guid>https://blog.hmuy.tech/2024./</guid>
+      <description>this year was (kinda) ass ngl looking back at 2024&#xA;haven&amp;rsquo;t written anything in a while lol for some reason whenever I get an idea I just write the first paragraph then sleep on it lol, writer&amp;rsquo;s block I guess 😞. I swear there&amp;rsquo;s some good shi coming when I have the time and motivation to finish them lmao, gotta trust the process. Manga/anime reviews, reviews in general, shit going on in my life, music, etc.</description>
+    </item>
     <item>
       <title>this manga broke me.</title>
-      <link>http://localhost:1313/this-manga-broke-me./</link>
+      <link>https://blog.hmuy.tech/this-manga-broke-me./</link>
       <pubDate>Mon, 01 Jul 2024 16:27:17 +0700</pubDate>
-      <guid>http://localhost:1313/this-manga-broke-me./</guid>
+      <guid>https://blog.hmuy.tech/this-manga-broke-me./</guid>
       <description>Kimi to Tsuzuru Utakata - The Summer You Were There a review by hmuy.&#xA;introduction As much of a disorganized mess as I am, I figured I&amp;rsquo;d try to write something while going through the oven that is SEA summer, and having read quite a few mangas over the past year or so, here we are. Do note though that these are gonna be less of reviews than me just putting my inhoherent ramblings and feelings about a story out there lol.</description>
     </item>
   </channel>

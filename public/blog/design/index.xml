@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on hmuy&#39;s yapping corner</title>
+    <link>http://localhost:1313/blog/design/</link>
+    <description>Recent content in Design on hmuy&#39;s yapping corner</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>khanhmuy © 2024</copyright>
+    <lastBuildDate>Mon, 23 Sep 2024 23:14:45 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google&#39;s Material You, three years later.</title>
+      <link>http://localhost:1313/googles-material-you-three-years-later./</link>
+      <pubDate>Mon, 23 Sep 2024 23:14:45 +0700</pubDate>
+      <guid>http://localhost:1313/googles-material-you-three-years-later./</guid>
+      <description>introduction okay my ahh capped I haven&amp;rsquo;t been using Material You for that long lmao.&#xA;This is just my thoughts on what is in my opinion, the biggest change to Android since their own switch to Material Design back in 2014. Although, I believe this is much more than just a design language, it&amp;rsquo;s about the evolution of one of our most important devices today - the smartphone.&#xA;backstory To me, a phone that I can&amp;rsquo;t customize to look, feel and function to my liking is not a phone I&amp;rsquo;d enjoy using for more than a couple of hours, let along every single day.</description>
+    </item>
+  </channel>
+</rss>

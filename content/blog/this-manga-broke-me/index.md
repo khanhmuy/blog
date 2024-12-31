@@ -5,7 +5,7 @@ date = "2024-07-01T16:27:17+07:00"
 #
 # description is optional
 #
-# description = "hmuy's review of Kimi to Tsuzuru Utakata - The Summer You Were There"
+description = "hmuy's review of Kimi to Tsuzuru Utakata - The Summer You Were There"
 
 tags = ["review","weebshit","english"]
 +++
