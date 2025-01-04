@@ -19,4 +19,4 @@ title = "blog home"
 - reflections and feelings (or sum idk)
 
 ## terminally online
-{{< rpc title="" src="https://hmuy.tech/rpc-card/" >}}
+{{< rpc title="" src="https://hmuy.live/rpc-card/" >}}
