@@ -4,7 +4,7 @@
 
 i'm hmuy (he/they | en/vi), your average mf with unmonitored internet access since 4. probably not a good thing to say out loud.
 
-some of my interests are music, [photography](https://instagram.com/hmuy0608), motorsport (F1), reading mangas, watching animes and some gaming (i utterly suck at all of them though). check out my [homepage](https://hmuy.live) as well.
+some of my interests are music, [photography](https://instagram.com/hmuy0608), motorsport (F1), reading mangas, watching animes and some gaming (i utterly suck at all of them though). check out my [homepage](https://hmuy.fyi) as well.
 
 anyways, this is where i'll put my blogs and writings, mostly for my own enjoyment (as if anyone else is reading this lmao).
 

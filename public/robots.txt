@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://blog.hmuy.live/sitemap.xml
+Sitemap: https://blog.hmuy.fyi/sitemap.xml
