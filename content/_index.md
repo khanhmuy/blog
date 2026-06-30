@@ -23,6 +23,5 @@ blog made with [Hugo](https://gohugo.io/) + [Bear Blog](https://github.com/janra
 
 ## you will find:
 - tech
-- anime / manga (check out my [anilist](https://anilist.co/user/hmuy0608/))
-- the media in general
+- anime / manga
 - my scattered thoughts
