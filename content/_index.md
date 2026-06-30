@@ -9,13 +9,13 @@ title = "blog home"
 
 > ain't no way hmuy's putting their (relatively) expensive keebs to use
 
-i'm hmuy (he/they | en/vi), your average mf with unmonitored internet access since 4. probably not a good thing to say out loud.
+i'm hmuy (he/they | en/vi), though I'd rather you call me *maika* since the other name isn't exactly pronounceable.
 
-some of my interests are music, [photography](https://instagram.com/hmuy0608), motorsport (F1), reading mangas, watching animes and some gaming (i utterly suck at all of them though). check out my [homepage](https://hmuy.fyi) as well.
+some of my interests are music, [photography](https://instagram.com/hmuy0608), motorsport (F1), [weeb stuff](https://anilist.co/user/hmuy0608/) and some gaming (i utterly suck at all of them though). check out my [homepage](https://hmuy.fyi) as well.
 
-anyways, this is where i'll put my blogs and writings, mostly for my own enjoyment (as if anyone else is reading this lmao).
+anyways, this is where I'll put my blogs and writings, mostly for my own enjoyment (as if anyone else is reading this lmao).
 
-i feel like social media is getting a bit too much for me now, and being [a country mouse forced to the city](https://anilist.co/anime/171627/Chainsaw-Man-Rezehen/) without a hole to yell to, this is where i'm gonna be putting out some "long-ish" stuff. hopefully. probably. i don't know. i hadn't put out anything on this for a year, lol.
+I feel like social media is getting a bit too much for me now, so this is where I'll be putting out some "long-ish" stuff. hopefully. probably. I don't know. I hadn't put out anything on this for a year, lol.
 
 blog made with [Hugo](https://gohugo.io/) + [Bear Blog](https://github.com/janraasch/hugo-bearblog/) theme, and some [catppuccin-mocha](https://github.com/catppuccin/catppuccin) colors.
 
@@ -26,6 +26,3 @@ blog made with [Hugo](https://gohugo.io/) + [Bear Blog](https://github.com/janra
 - anime / manga (check out my [anilist](https://anilist.co/user/hmuy0608/))
 - the media in general
 - my scattered thoughts
-
-## terminally online + music status
-{{< rpc title="" src="https://hmuy.fyi/rpc-card/" >}}
